@@ -1,0 +1,10 @@
+# vim temp files
+*.swp
+
+# a folder for local files
+local-files-only/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
