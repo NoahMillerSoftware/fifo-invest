@@ -8,3 +8,6 @@ local-files-only/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# virtual environments
+*env/
